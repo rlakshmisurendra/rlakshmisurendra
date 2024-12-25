@@ -43,7 +43,7 @@ I'm continuously working to enhance my technical expertise and acquire advanced 
 
 ## 📫 Connect with Me
 - **Email**: rlakshmisurendra@gmail.com
-- **LinkedIn**: www.linkedin.com/in/r-lakshmi-surendra-74a843287
+- **LinkedIn**: www.linkedin.com/in/rlakshmisurendra
 
 Feel free to check out my repositories and projects! I'm open to collaboration and feedback. Let's build something amazing together!
 
